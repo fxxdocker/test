@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-clean all
-=======
-clean all test
->>>>>>> test_002
+if ? less add  to more
